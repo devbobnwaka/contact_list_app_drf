@@ -1,0 +1,5 @@
+I learnt about pipenv and it used to create a virtual environment.
+I installed pipenv with pip into my local computer
+-   pip install pipenv
+In my project I then ran
+-   pipenv shell
